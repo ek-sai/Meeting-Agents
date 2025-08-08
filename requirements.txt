@@ -1,0 +1,5 @@
+streamlit
+langgraph
+langchain_core
+langchain_anthropic
+langchain_community
