@@ -49,7 +49,7 @@ An intelligent multi-agent system that revolutionizes meeting preparation by aut
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ek-sai/Meeting_Agent
    cd ai-meeting-agent
    ```
 
