@@ -157,17 +157,13 @@ The agent generates structured markdown output including:
 
 We welcome contributions! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🆘 Support
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](../../issues) page
-2. Review the API documentation for [Anthropic](https://docs.anthropic.com/) and [Tavily](https://docs.tavily.com/)
-3. Open a new issue with detailed information about your problem
+1. Review the API documentation for [Anthropic](https://docs.anthropic.com/) and [Tavily](https://docs.tavily.com/)
+2. Open a new issue with detailed information about your problem and send an email to eksai0726@gmail.com
 
 ## 🎉 Acknowledgments
 
