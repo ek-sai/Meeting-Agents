@@ -1,5 +1,6 @@
 streamlit
 langgraph
 langchain_core
-langchain_anthropic
+langchain_groq
 langchain_community
+dotenv
