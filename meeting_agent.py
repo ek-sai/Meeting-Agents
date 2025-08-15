@@ -185,7 +185,7 @@ if st.button("Prepare Meeting"):
 
 st.sidebar.markdown("""
 ## How to use this app:
-1. Make sure your GROQ_API_KEY and TAVILY_API_KEY are set in the .env file.
+1. Make sure your GROQ_API_KEY or any LLM API KEY and TAVILY_API_KEY are set in the .env file.
 2. Fill out meeting details.
 3. Click 'Prepare Meeting'.
 4. Wait for your executive brief.
